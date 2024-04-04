@@ -25,7 +25,7 @@ To use the College Lab Exercise Front Page:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/college-lab-exercise-front-page.git
+   https://github.com/AyanSrivastava11/Web_dev--lab_exercises.git
     ```
 
 2. Open the project directory:
