@@ -8,7 +8,7 @@ The College Lab Exercise Front Page serves as a central hub for accessing resour
 
 ## Demo
 
-You can see a live demo of the Background Changer [here](link-to-demo).
+You can see a live demo of the Background Changer https://ayansrivastava11.github.io/Web_dev--lab_exercises/
 
 ## Content
 
