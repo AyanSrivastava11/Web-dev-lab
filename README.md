@@ -6,6 +6,10 @@ This project is a front page for a college lab exercise, containing images, vide
 
 The College Lab Exercise Front Page serves as a central hub for accessing resources related to lab exercises and assignments. It provides links to images, videos, and Photoshop files for each exercise, allowing students to easily access the necessary materials for their coursework.
 
+## Demo
+
+You can see a live demo of the Background Changer [here](link-to-demo).
+
 ## Content
 
 The project contains the following types of files:
